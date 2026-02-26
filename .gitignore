@@ -1,0 +1,30 @@
+# Binaries
+*.exe
+*.dll
+*.o
+*.obj
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.user
+*.suo
+
+# Debug files
+*.pdb
+*.ilk
+*.exp
+
+# Build directories
+bin/
+Debug/
+Release/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Textures (large binary files - uncomment if you want to track them)
+# assets/textures/
+# textures/

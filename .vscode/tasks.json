@@ -1,0 +1,27 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-o",
+                "${workspaceFolder}/bin/alice.exe",
+                "${workspaceFolder}/src/*.cpp",
+                "-I", "${workspaceFolder}/include",
+                "-I", "C:\\sfml\\SFML-2.5.1\\include",
+                "-L", "C:\\sfml\\SFML-2.5.1\\lib",
+                "-lsfml-graphics",
+                "-lsfml-window",
+                "-lsfml-system",
+                "-lsfml-audio"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"]
+        }
+    ]
+}
