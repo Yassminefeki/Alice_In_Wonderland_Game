@@ -245,10 +245,11 @@ This project is licensed under the MIT License.
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
 **Yassmine Feki**
-- GitHub: [@Yassminefeki](https://github.com/Yassminefeki)
+**Khadija Bouchhima**
+**Nessryne Chouchene**
 
 ---
 
