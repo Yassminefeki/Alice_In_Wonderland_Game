@@ -15,10 +15,10 @@ In this game, you play as **Alice**, who finds herself trapped in a whimsical ye
 ### The Characters
 
 - **Alice (You)** 🧒 - The curious young girl navigating through Wonderland, collecting pellets to survive
-- **The Red Queen** 🔴 - Aggressive and always chasing directly
-- **The Pink Flamingo** 🩷 - Uses cunning tactics to cut off Alice's path
-- **The Blue Caterpillar** 🔵 - Strikes from unexpected angles
-- **The Orange Hare** 🟠 - Patrols the corners with unique movement patterns
+- **The Red cheshire** 🔴 - Aggressive and always chasing directly
+- **The Pink cheshire** 🩷 - Uses cunning tactics to cut off Alice's path
+- **The Blue cheshire** 🔵 - Strikes from unexpected angles
+- **The Yellow cheshire** 🟠 - Patrols the corners with unique movement patterns
 
 ### The Objective
 
